@@ -11,17 +11,26 @@ Thanks for stopping in! I look forward to working together to make the present a
 
 ## Intro Video
 
-<!-- Website Preview: ![alt text](https://michaelwitt.github.io/HyperFast-ReadMe/Develop/images/IMAGEHERE) -->
+How To Video: https://youtu.be/CJFBtZMjnsk
 
-Text: 
+Instructions:
+
+1. Download or Clone HyperFast ReadMe from Github
+2. Open the terminal and install inquirer if not already installed (npm i)
+3. In the terminal, type in: node index.js
+4. Answer the questions that come up to the best of your ability
+5. Voila! Your ReadMe was rapidly generated and can be found in your Develop folder named hyperFastReadme.md. Enjoy! 
 
 ## Build Details
 
 This application was developed using Node.js, JavaScript, HTML, Inquirer, FS, and more! Users are prompted with questions using node.js and inquirer. The responses are collected and saved to a blank readme in javascript, which is then written to a ReadMe file using fs. 
 
-## Repository
+## Repository & Preview
 
 View the repository at: https://github.com/MichaelWitt/HyperFast-ReadMe
+
+<!-- Application Preview: ![alt text](https://michaelwitt.github.io/HyperFast-ReadMe/Develop/images/IMAGEHERE) -->
+<!-- ReadMe Preview: ![alt text](https://michaelwitt.github.io/HyperFast-ReadMe/Develop/images/IMAGEHERE) -->
 
 ## Updates
 
