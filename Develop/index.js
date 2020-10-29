@@ -16,16 +16,26 @@ inquirer
         {
             type: "input",
             message: "What is your project name?",
-            name: "name"
+            name: "project"
         },
         {
             type: "input",
-            message: "Please write a short project description:",
+            message: "Please write a short, one sentence project description:",
             name: "description"
         },
         {
             type: "input",
-            message: "What kind of license do you want for this project?",
+            message: "Now please write a more detailed project description:",
+            name: "detailed"
+        },
+        {
+            type: "input",
+            message: "What technologies were used to create the final product?",
+            name: "build"
+        },
+        {
+            type: "input",
+            message: "Project License:",
             name: "license"
         },
         {
@@ -45,51 +55,67 @@ inquirer
         },
         {
             type: "input",
-            message: "How do users use the repo?",
+            message: "Please write a description for how to use the repo:",
             name: "use"
         },
         {
             type: "input",
             message: "How can users contribute to the repo?",
             name: "contribute"
-        }
+        },
+        {
+            type: "input",
+            message: "Do you know that you are awesome?",
+            name: "awesome"
+        },
     ]).then((response) => {
 
         let readme = `
-# ${response.name}
+# ${response.project}
 ${response.description}
 
-## HyperFast
-
-Welcome to the HyperFast ReadMe Generator! 
-
 ## Project Details
+
+${response.detailed}
 
 Thanks for stopping in! I look forward to working together to make the present and future a better place.
 
 ## Build Details
 
-Build Details
+${response.build}
 
 ## Instructions
 
-## Repository
+How to use the repo: ${response.use}
 
-View the repository at: https://github.com/${response.username}
+Command to install dependencies: ${response.dependencies}
 
-<!-- Website Preview: ![alt text](https://michaelwitt.github.io/HyperFast-ReadMe/Develop/images/IMAGEHERE) -->
+Command to run tests: ${response.tests}
+
+## Repository & Website
+
+View the website at: https://${response.username.replace(/\s/g, "")}.github.io/${response.project.replace(/\s/g, "")}/
+View the repository at: https://github.com/${response.username.replace(/\s/g, "")}/${response.project.replace(/\s/g, "")}/
+
+<!-- Website Preview: ![alt text](https://${response.username.replace(/\s/g, "")}.github.io/${response.project.replace(/\s/g, "")}/Assets/Images/PUTIMAGEHERE) -->
 
 ## Updates
 
 You can find project updates in the repository, highlighting what was done to create the final product.
 
-https://github.com/MichaelWitt/HyperFast-ReadMe/commits/
+https://github.com/${response.username.replace(/\s/g, "")}/${response.project.replace(/\s/g, "")}/commits/
 
-## Credits
+## Credits & License
 
 ${response.credits}
 
+License: ${response.license}
+
 Thanks! 
+
+## Contribute
+
+${response.contribute}
 
 ## Thanks For Visiting!
 

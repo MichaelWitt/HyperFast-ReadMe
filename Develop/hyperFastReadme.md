@@ -1,41 +1,52 @@
 
-# jgjgjg
-gjgjgj
-
-## HyperFast
-
-Welcome to the HyperFast ReadMe Generator! 
+# Delta-Cremaer
+adsgasdg
 
 ## Project Details
+
+dsfasdfa
 
 Thanks for stopping in! I look forward to working together to make the present and future a better place.
 
 ## Build Details
 
-Build Details
+agkdkgksg
 
 ## Instructions
 
-## Repository
+How to use the repo: asdfadsf
 
-View the repository at: https://github.com/fasdf
+Command to install dependencies: asdfn
 
-<!-- Website Preview: ![alt text](https://michaelwitt.github.io/HyperFast-ReadMe/Develop/images/IMAGEHERE) -->
+Command to run tests: nfnf
+
+## Repository & Website
+
+View the website at: https://michaelwitt.github.io/Delta-Cremaer/
+View the repository at: https://github.com/michaelwitt/Delta-Cremaer/
+
+<!-- Website Preview: ![alt text](https://michaelwitt.github.io/Delta-Cremaer/Assets/Images/PUTIMAGEHERE) -->
 
 ## Updates
 
 You can find project updates in the repository, highlighting what was done to create the final product.
 
-https://github.com/MichaelWitt/HyperFast-ReadMe/commits/
+https://github.com/MichaelWitt/Delta-Cremaer/commits/
 
-## Credits
+## Credits & License
 
-gjgjgj
+nfdasdf
+
+License: asgsk
 
 Thanks! 
 
+## Contribute
+
+asdfsd
+
 ## Thanks For Visiting!
 
-Contact me if you have any questions: gjgjgjg
+Contact me if you have any questions: mike@asdga
 
 Come back soon :)
