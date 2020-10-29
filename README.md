@@ -9,9 +9,9 @@ If you're looking to start a new project, or finishing one up and need a ReadMe 
 
 Thanks for stopping in! I look forward to working together to make the present and future a better place.
 
-## Intro Video
+## Instructions
 
-How To Video: https://youtu.be/CJFBtZMjnsk
+Intro Video: https://youtu.be/CJFBtZMjnsk
 
 Instructions:
 
