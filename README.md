@@ -29,12 +29,8 @@ This application was developed using Node.js, JavaScript, HTML, Inquirer, FS, an
 
 View the repository at: https://github.com/MichaelWitt/HyperFast-ReadMe
 
-Application Preview: ![alt text](https://github.com/MichaelWitt/HyperFast-ReadMe/Develop/Images/Terminal-Preview.png?raw=true)
-ReadMe Preview: ![alt text](https://github.com/MichaelWitt/HyperFast-ReadMe/Develop/Images/ReadMe-Generated.png?raw=true) 
-
-<!-- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) -->
-![Screenshot](Demo.png)
-![Screenshot](Preview.png)
+Preview: ![Screenshot](Preview.png)
+Demo: ![Screenshot](Demo.png)
 
 ## Updates
 
