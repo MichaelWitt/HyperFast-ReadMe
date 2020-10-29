@@ -1,52 +1,52 @@
 
-# delta five
-this project does flight simulation
+# Captain Awesome
+Flying in space
 
 ## Project Details
 
-This project will take in date from flight simulators and change the world
+Flying at intergalactic speed!
 
 Thanks for stopping in! I look forward to working together to make the present and future a better place.
 
 ## Build Details
 
-CSS, HTML, etc
+By building my rocketship
+
+Technologies: CSS, HTML
 
 ## Instructions
 
-How to use the repo: You install it bru
+How to use the repo: just use it
 
 Command to install dependencies: npm i
-
-Command to run tests: npm tests
+Command to run tests: npm test
 
 ## Repository & Website
 
-View the website at: https://michaelwitt.github.io/deltafive/
-View the repository at: https://github.com/michaelwitt/deltafive/
+View the website at: https://captainzerae.github.io/CaptainAwesome/
+View the repository at: https://github.com/captainzerae/CaptainAwesome/
 
-<!-- Website Preview: ![alt text](https://michaelwitt.github.io/deltafive/Assets/Images/PUTIMAGEHERE) -->
+<!-- Website Preview: ![alt text](https://captainzerae.github.io/CaptainAwesome/Assets/Images/PUTIMAGEHERE) -->
 
 ## Updates
 
 You can find project updates in the repository, highlighting what was done to create the final product.
 
-https://github.com/michaelwitt/deltafive/commits/
+https://github.com/captainzerae/CaptainAwesome/commits/
 
 ## Credits & License
 
-Jamba
-
+Credits: Dad and Disney
 License: MIT
 
 Thanks! 
 
 ## Contribute
 
-They can email me
+email me
 
 ## Thanks For Visiting!
 
-Contact me if you have any questions: mikewitt@gmail
+Contact me if you have any questions: mike@
 
 Come back soon :)

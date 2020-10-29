@@ -45,8 +45,13 @@ inquirer
         },
         {
             type: "input",
-            message: "Do you have any credits or people to thank for this project?",
+            message: "Do you have any credits and people to thank for this project?",
             name: "credits"
+        },
+        {
+            type: "input",
+            message: "Please write a description for how to use the repo:",
+            name: "use"
         },
         {
             type: "input",
@@ -57,11 +62,6 @@ inquirer
             type: "input",
             message: "What command should be used to run tests?",
             name: "tests"
-        },
-        {
-            type: "input",
-            message: "Please write a description for how to use the repo:",
-            name: "use"
         },
         {
             type: "input",
@@ -87,8 +87,7 @@ Thanks for stopping in! I look forward to working together to make the present a
 
 ## Build Details
 
-${response.build}
-
+Build: ${response.build}
 Technologies: ${response.tech}
 
 ## Instructions
@@ -103,7 +102,7 @@ Command to run tests: ${response.tests}
 View the website at: https://${response.username.replace(/\s/g, "")}.github.io/${response.project.replace(/\s/g, "")}/
 View the repository at: https://github.com/${response.username.replace(/\s/g, "")}/${response.project.replace(/\s/g, "")}/
 
-<!-- Website Preview: ![alt text](https://${response.username.replace(/\s/g, "")}.github.io/${response.project.replace(/\s/g, "")}/Assets/Images/PUTIMAGEHERE) -->
+Website Preview: ![alt text](https://${response.username.replace(/\s/g, "")}.github.io/${response.project.replace(/\s/g, "")}/Assets/Images/PUTIMAGEHERE)
 
 ## Updates
 
@@ -113,8 +112,7 @@ https://github.com/${response.username.replace(/\s/g, "")}/${response.project.re
 
 ## Credits & License
 
-${response.credits}
-
+Credits: ${response.credits}
 License: ${response.license}
 
 Thanks! 
