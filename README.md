@@ -16,7 +16,7 @@ Intro Video: https://youtu.be/CJFBtZMjnsk
 Instructions:
 
 1. Download or Clone HyperFast ReadMe from Github
-2. Open the terminal and install inquirer if not already installed (npm i)
+2. Open the terminal and install inquirer if not already installed (npm i inquirer)
 3. In the terminal, type in: node index.js
 4. Answer the questions that come up to the best of your ability
 5. Voila! Your ReadMe was rapidly generated and can be found in your Develop folder named hyperFastReadme.md. Enjoy! 
