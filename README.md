@@ -33,7 +33,8 @@ Application Preview: ![alt text](https://github.com/MichaelWitt/HyperFast-ReadMe
 ReadMe Preview: ![alt text](https://github.com/MichaelWitt/HyperFast-ReadMe/Develop/Images/ReadMe-Generated.png?raw=true) 
 
 <!-- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) -->
-
+![Screenshot](Demo.png)
+![Screenshot](Preview.png)
 
 ## Updates
 
