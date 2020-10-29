@@ -30,8 +30,13 @@ inquirer
         },
         {
             type: "input",
-            message: "What technologies were used to create the final product?",
+            message: "How will you build the final product?",
             name: "build"
+        },
+        {
+            type: "input",
+            message: "What technologies will be used to create this?",
+            name: "tech"
         },
         {
             type: "input",
@@ -84,12 +89,13 @@ Thanks for stopping in! I look forward to working together to make the present a
 
 ${response.build}
 
+Technologies: ${response.tech}
+
 ## Instructions
 
 How to use the repo: ${response.use}
 
 Command to install dependencies: ${response.dependencies}
-
 Command to run tests: ${response.tests}
 
 ## Repository & Website
